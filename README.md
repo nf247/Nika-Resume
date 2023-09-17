@@ -1,6 +1,5 @@
-# Nika-Resume
+# Nika Fakhri-Resume
 Analytical Business Professional | Resume &amp; Career Journey
-# Nika Fakhri
 
 ## Contact Information
 - Email: nf247@njit.edu
