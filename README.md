@@ -11,8 +11,8 @@ Aspiring Business Analyst with a strong educational foundation in management and
 
 ## Education
 **Master's in Management concentration in Buisness Analytics**
-New Jersey Institude of Technology
-Expected to gradate: May 2024
+-New Jersey Institude of Technology
+-Expected to gradate: May 2024
 
 **Bachelor of Science in Management**
 - George Mason University
