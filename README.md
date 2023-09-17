@@ -58,4 +58,3 @@ Aspiring Business Analyst with a strong educational foundation in management and
 - Power BI
 - Trello
 - Jira
-- Git
